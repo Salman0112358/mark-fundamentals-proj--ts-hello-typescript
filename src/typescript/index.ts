@@ -1,5 +1,5 @@
 let numberOne : number = 5;
-const numberTwo : number = 10;
+const numberTwo : number = 100;
 numberOne = 7;
 
 const additionResult : number = numberOne + numberTwo;
