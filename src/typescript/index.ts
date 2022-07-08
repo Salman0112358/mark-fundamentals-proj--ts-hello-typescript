@@ -15,3 +15,5 @@ const area = rectangle.width * rectangle.height; // an easy typo to make!
 console.log(
   `Rectangle area: ${rectangle.width} x ${rectangle.height} is... ${area}`
 );
+
+// Salman was here
